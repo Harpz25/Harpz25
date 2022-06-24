@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Harpz25
+- 
 -:relaxed: I’m interested in learning new things
+
 -:computer: Constantly taking on new challenges in programming
 
 <!---
